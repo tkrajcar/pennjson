@@ -50,4 +50,4 @@ game/txt/news.txt
 game/txt/ahelp.txt
 
 # Ruby implementation-specific files.
-game/ruby/config.yml
+#game/ruby/config.yml # Excluded just for ruby-github-example branch.
